@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "831888872217",
+    "project_id": "pilkosisapp-a0415",
+    "storage_bucket": "pilkosisapp-a0415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831888872217:android:97f28970ec3d4e723aeb88",
+        "android_client_info": {
+          "package_name": "com.example.pilkosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831888872217-6l2p91js3hu8iqn9p50l307ol10u7fua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc_64qmQIee8hjK1AEHGe4wqPVW13NSDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831888872217-6l2p91js3hu8iqn9p50l307ol10u7fua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831888872217:android:0eb87f3a41a1e1d83aeb88",
+        "android_client_info": {
+          "package_name": "com.example.pilkosiscom.example.pilkosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831888872217-6l2p91js3hu8iqn9p50l307ol10u7fua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc_64qmQIee8hjK1AEHGe4wqPVW13NSDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831888872217-6l2p91js3hu8iqn9p50l307ol10u7fua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
