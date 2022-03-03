@@ -1,3 +1,7 @@
+Kamp Kreatif SMK Indonesia 2021
+Work as a twam to create android aplications  here i work as a fullstack mobile developer flutter
+
+
 # pilkosis
 
 A new Flutter project.
